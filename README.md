@@ -1,6 +1,6 @@
 <h2> Projeto Django Atividade Seletiva<h2> 
 
-<h4>Dependências</h4><br>
+<h4>Dependências</h4>
 Python<br>
 Djangorest<br>
 django-model-utils<br>

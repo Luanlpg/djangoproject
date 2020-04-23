@@ -1,10 +1,10 @@
 # Projeto Django Atividade Seletiva 
 
-Dependências
-Python
-Djangorest
-django-model-utils
-Ambiente Virtual/virtualenv
+<h1>Dependências</h1><br>
+Python<br>
+Djangorest<br>
+django-model-utils<br>
+Ambiente Virtual/virtualenv<br>
 
 Urls
 Todos os Registros: http://127.0.0.1:8000/v1/records <br>

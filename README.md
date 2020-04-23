@@ -1,4 +1,4 @@
-<h2> Projeto Django Atividade Seletiva<h2> 
+# Projeto Django Atividade Seletiva
 
 <h4>Dependências</h4>
 Python<br>

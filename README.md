@@ -1,1 +1,1 @@
-# djangoproject
+# Projeto Django Atividade Seletiva 

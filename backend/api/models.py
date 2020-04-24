@@ -9,6 +9,9 @@ class EventRegister(TimeStampedModel):
 
     def __str__(self):
         return str(self.name)
+    
+    def save(self):
+        pass
 
     class Meta:
         verbose_name = 'Event Register'
